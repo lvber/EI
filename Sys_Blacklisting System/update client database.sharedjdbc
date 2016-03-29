@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BWSharedResource>
+    <name>update client database</name>
+    <resourceType>ae.shared.JDBCSharedResource</resourceType>
+    <config>
+        <driver>com.mysql.jdbc.Driver</driver>
+        <maxConnections>10</maxConnections>
+        <loginTimeout>0</loginTimeout>
+        <connectionType>JDBC</connectionType>
+        <UseSharedJndiConfig>false</UseSharedJndiConfig>
+        <user>Chan</user>
+        <password>#!QsvJTeEWdwQdZI8MjODlmSnOQvwoMOl0WaOuRknk3Ig=</password>
+        <location>jdbc:mysql://10.124.4.23:3306/insurance_client_db</location>
+    </config>
+</BWSharedResource>

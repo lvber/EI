@@ -1,0 +1,90 @@
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.63
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jun 30 2015 08:08:33 UTC
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.63.0
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\apache-tomcat-7.0.63
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\apache-tomcat-7.0.63
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\apache-tomcat-7.0.63\conf\logging.properties
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\apache-tomcat-7.0.63\endorsed
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\apache-tomcat-7.0.63
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\apache-tomcat-7.0.63
+Nov 28, 2015 7:31:34 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\apache-tomcat-7.0.63\temp
+Nov 28, 2015 7:31:34 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Parallels\Parallels Tools\Applications;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_11/bin;C:\Program Files\Java\jdk1.8.0_11/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Notepad++;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\TortoiseGit\bin;C:\Ruby187\bin;C:\Tcl\bin;C:\Program Files (x86)\Parallels\Parallels Tools\Applications;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_11/bin;C:\Program Files\Java\jdk1.8.0_11/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Notepad++;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\TortoiseGit\bin;.
+Nov 28, 2015 7:31:35 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Nov 28, 2015 7:31:35 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Nov 28, 2015 7:31:35 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 888 ms
+Nov 28, 2015 7:31:35 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Nov 28, 2015 7:31:35 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.63
+Nov 28, 2015 7:31:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.63\webapps\docs
+Nov 28, 2015 7:31:35 PM org.apache.catalina.util.SessionIdGeneratorBase createSecureRandom
+INFO: Creation of SecureRandom instance for session ID generation using [SHA1PRNG] took [104] milliseconds.
+Nov 28, 2015 7:31:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.63\webapps\docs has finished in 410 ms
+Nov 28, 2015 7:31:35 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.63\webapps\examples
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.63\webapps\examples has finished in 710 ms
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.63\webapps\host-manager
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.63\webapps\host-manager has finished in 63 ms
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.63\webapps\manager
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.63\webapps\manager has finished in 70 ms
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.63\webapps\ROOT
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.63\webapps\ROOT has finished in 47 ms
+Nov 28, 2015 7:31:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Nov 28, 2015 7:31:36 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Nov 28, 2015 7:31:36 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 1372 ms
+Nov 28, 2015 7:32:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\apache-tomcat-7.0.63\webapps\pro
+Nov 28, 2015 7:32:36 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\apache-tomcat-7.0.63\webapps\pro has finished in 84 ms
+Nov 28, 2015 7:34:06 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deploying web application archive C:\apache-tomcat-7.0.63\webapps\app.war
+Nov 28, 2015 7:34:07 PM org.apache.catalina.deploy.WebXml setVersion
+WARNING: Unknown version string [3.1]. Default version will be used.
+Nov 28, 2015 7:34:07 PM org.apache.catalina.startup.TldConfig execute
+INFO: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+Nov 28, 2015 7:34:07 PM org.apache.catalina.startup.HostConfig deployWAR
+INFO: Deployment of web application archive C:\apache-tomcat-7.0.63\webapps\app.war has finished in 956 ms
+Nov 28, 2015 7:38:47 PM com.app.model.ConnectionManager getConnection
+INFO: dbURL: jdbc:mysql://localhost:3306/se?characterSetResults=UTF-8&characterEncoding=UTF-8&useUnicode=true  , dbUser: root  , dbPassword: 
+Nov 28, 2015 7:38:53 PM com.app.model.ConnectionManager getConnection
+INFO: dbURL: jdbc:mysql://localhost:3306/se?characterSetResults=UTF-8&characterEncoding=UTF-8&useUnicode=true  , dbUser: root  , dbPassword: 

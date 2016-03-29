@@ -1,0 +1,10 @@
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:12:37:05 +0800] "GET /axis2/ HTTP/1.1" 200 3733
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:12:37:05 +0800] "GET /axis2/axis2-web/images/asf-logo.gif HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:12:37:05 +0800] "GET /axis2/axis2-web/css/axis-style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:12:37:05 +0800] "GET /axis2/axis2-web/images/axis_l.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:12:37:09 +0800] "GET /axis2/services/listServices HTTP/1.1" 200 4136
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:12:37:14 +0800] "GET /axis2/services/GetAssessmentResult?wsdl HTTP/1.1" 200 4571
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:13:15:49 +0800] "GET /axis2/services/listServices HTTP/1.1" 200 5486
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:13:15:55 +0800] "GET /axis2/services/getPotentialSavings?wsdl HTTP/1.1" 200 4481
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:13:16:34 +0800] "GET /axis2/services/getApproximateBillForOneMonth?wsdl HTTP/1.1" 200 4681
+0:0:0:0:0:0:0:1 - - [23/Mar/2016:13:16:57 +0800] "GET /axis2/services/getEnergySolarpanelProduceInOneMonth?wsdl HTTP/1.1" 200 4821

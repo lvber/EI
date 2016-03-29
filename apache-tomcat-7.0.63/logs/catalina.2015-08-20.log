@@ -1,0 +1,72 @@
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server version:        Apache Tomcat/7.0.63
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server built:          Jun 30 2015 08:08:33 UTC
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Server number:         7.0.63.0
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Name:               Windows 8.1
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: OS Version:            6.3
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Architecture:          amd64
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Java Home:             C:\Program Files\Java\jdk1.8.0_11\jre
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Version:           1.8.0_11-b12
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: JVM Vendor:            Oracle Corporation
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_BASE:         C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: CATALINA_HOME:         C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.config.file=C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\conf\logging.properties
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.endorsed.dirs=C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\endorsed
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.base=C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Dcatalina.home=C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.VersionLoggerListener log
+INFO: Command line argument: -Djava.io.tmpdir=C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\temp
+Aug 20, 2015 2:58:48 PM org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\Program Files\Java\jdk1.8.0_11\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\Parallels\Parallels Tools\Applications;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_11/bin;C:\Program Files\Java\jdk1.8.0_11/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Notepad++;C:\Program Files (x86)\Windows Live\Shared;C:\Ruby187\bin;C:\Tcl\bin;C:\Program Files (x86)\Parallels\Parallels Tools\Applications;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Java\jdk1.8.0_11/bin;C:\Program Files\Java\jdk1.8.0_11/jre/bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Notepad++;C:\Program Files (x86)\Windows Live\Shared;.
+Aug 20, 2015 2:58:48 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["http-bio-8080"]
+Aug 20, 2015 2:58:48 PM org.apache.coyote.AbstractProtocol init
+INFO: Initializing ProtocolHandler ["ajp-bio-8009"]
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 682 ms
+Aug 20, 2015 2:58:48 PM org.apache.catalina.core.StandardService startInternal
+INFO: Starting service Catalina
+Aug 20, 2015 2:58:48 PM org.apache.catalina.core.StandardEngine startInternal
+INFO: Starting Servlet Engine: Apache Tomcat/7.0.63
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\docs
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\docs has finished in 313 ms
+Aug 20, 2015 2:58:48 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\examples
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\examples has finished in 250 ms
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\host-manager
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\host-manager has finished in 62 ms
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\manager
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\manager has finished in 63 ms
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deploying web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\ROOT
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Deployment of web application directory C:\Users\lvbowen\Desktop\apache-tomcat-7.0.63\webapps\ROOT has finished in 47 ms
+Aug 20, 2015 2:58:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["http-bio-8080"]
+Aug 20, 2015 2:58:49 PM org.apache.coyote.AbstractProtocol start
+INFO: Starting ProtocolHandler ["ajp-bio-8009"]
+Aug 20, 2015 2:58:49 PM org.apache.catalina.startup.Catalina start
+INFO: Server startup in 784 ms
